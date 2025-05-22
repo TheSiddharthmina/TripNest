@@ -25,13 +25,6 @@ TripNest is a full-stack travel booking platform that allows users to explore be
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add screenshots or demo gifs here)*  
-> Example: homepage, booking form, login, admin panel, etc.
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally:
